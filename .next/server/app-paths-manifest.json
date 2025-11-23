@@ -1,0 +1,13 @@
+{
+  "/register/page": "app/register/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/seeker/dashboard/page": "app/seeker/dashboard/page.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/applications/route": "app/api/applications/route.js",
+  "/api/jobs/route": "app/api/jobs/route.js",
+  "/seeker/jobs/page": "app/seeker/jobs/page.js",
+  "/seeker/profile/page": "app/seeker/profile/page.js",
+  "/api/resume/upload/route": "app/api/resume/upload/route.js"
+}
