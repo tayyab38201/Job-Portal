@@ -164,7 +164,7 @@ JWT_SECRET=your-secret-key-minimum-32-characters
 NEXT_PUBLIC_API_URL=http://localhost:3000
 ```
 
-⚠️ **Never commit `.env.local` to GitHub!**
+⚠️ ** You can even use my .env. It is just a mongodb atlas string and all data is saving in it.
 
 ## 📱 Screenshots
 
@@ -187,8 +187,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@tayyab38201](https://github.com/tayyab38201)
+- LinkedIn: https://www.linkedin.com/in/muhammad-tayyab-a20618236/
 
 ## 🙏 Acknowledgments
 
