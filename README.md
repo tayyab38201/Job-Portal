@@ -5,8 +5,8 @@
 <img width="1172" height="630" alt="3" src="https://github.com/user-attachments/assets/9c873b6c-6c39-47b9-a317-d621cdfa2e62" />
 <img width="1204" height="631" alt="4" src="https://github.com/user-attachments/assets/02481438-5ee5-49fd-b4eb-4b1b08d40ad9" />
 <img width="1207" height="649" alt="5" src="https://github.com/user-attachments/assets/ee4725d4-d903-4b03-aa85-7af149339ff2" />
-<img width="992" height="692" alt="7" src="https://github.com/user-attachments/assets/2cb390be-7278-4de6-8423-643ddea33cf4" />
 <img width="1173" height="641" alt="6" src="https://github.com/user-attachments/assets/e37c9445-565f-45e8-9047-2bb0d6f08d4a" />
+<img width="992" height="692" alt="7" src="https://github.com/user-attachments/assets/2cb390be-7278-4de6-8423-643ddea33cf4" />
 <img width="1029" height="653" alt="8" src="https://github.com/user-attachments/assets/b35e3923-bd06-45d6-aff1-a91cabe5b4fb" />
 
 A modern, full-featured job portal built with **Next.js 14** and **MongoDB Atlas**. Connect employers with talented job seekers seamlessly!
