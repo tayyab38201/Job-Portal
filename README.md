@@ -1,5 +1,7 @@
 
 # 💼 Job Portal - Full Stack Application
+<img width="1222" height="633" alt="1" src="https://github.com/user-attachments/assets/0ccb8907-7e11-4137-b7b9-a9c5385c2d1d" />
+<img width="711" height="644" alt="2" src="https://github.com/user-attachments/assets/f02290cd-e1be-44db-8b99-b7de777150d0" />
 
 A modern, full-featured job portal built with **Next.js 14** and **MongoDB Atlas**. Connect employers with talented job seekers seamlessly!
 
@@ -168,7 +170,13 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 
 ## 📱 Screenshots
 
-[Add your screenshots here]
+<img width="992" height="692" alt="7" src="https://github.com/user-attachments/assets/1dc96725-8b88-48a4-9dd7-7df575766646" />
+<img width="1173" height="641" alt="6" src="https://github.com/user-attachments/assets/5c683872-77df-4e65-9917-63874a4d7214" />
+<img width="1207" height="649" alt="5" src="https://github.com/user-attachments/assets/63187272-8e11-4c45-8314-eea78c7b720e" />
+<img width="1204" height="631" alt="4" src="https://github.com/user-attachments/assets/f9b6a172-feef-4ae0-8524-f486848cc83b" />
+<img width="1172" height="630" alt="3" src="https://github.com/user-attachments/assets/65d8d57d-ae54-454d-b9db-5cc5bd54b6c9" />
+<img width="1029" height="653" alt="8" src="https://github.com/user-attachments/assets/ff8e31c3-5908-49ec-8d66-766a0ce1bf08" />
+
 
 ## 🤝 Contributing
 
